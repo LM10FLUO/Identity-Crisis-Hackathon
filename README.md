@@ -53,3 +53,6 @@ The different colours depict the ideas made by different team members, which wer
 3 – We then proceeded to rank the shortlisted ideas out of 10 on how much they would excel in each one of the points in the criteria for the project, to find an average of every idea. Importantly, we didn’t blindly base it off numbers, we more so used it as a guide, but had conversations to decide based on our beliefs on the suitability of these ideas to the hackathon’s purpose.
 
 4 – Finally, we took the highest scoring idea (based by its average) and improved it significantly to perfectly fit strand 1 – where we explore what AI thinks it can do (in our case, to try and sound human – more human than the actual players in our game!). We then held another meeting to share further opinions and decided on the idea.
+
+Youtube Video
+https://www.youtube.com/watch?v=AiD6f6BXFv8
